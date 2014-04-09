@@ -12,4 +12,5 @@ done
 
 for i in {1..15}; do
   echo $i
+  echo "I'm counting"
 done
